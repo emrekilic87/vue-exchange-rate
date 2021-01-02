@@ -1,4 +1,7 @@
-# vue-exchange-rate
-free exchange-rate-api used in this project (https://www.exchangerate-api.com/docs/free-exchange-rate-api ) 
-
+This free api has been used in this project >> https://www.exchangerate-api.com/docs/free-exchange-rate-api
+<br>
+<br>
+Tech stacks;
+* Vue 3
+<br>
 DEMO: https://vue-exchange-rate.vercel.app/
