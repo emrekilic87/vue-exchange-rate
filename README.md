@@ -4,4 +4,4 @@ This free api has been used in this project >> https://www.exchangerate-api.com/
 Tech stacks;
 * Vue 3
 <br>
-DEMO: https://vue-exchange-rate.vercel.app/
+Demo: https://vue-exchange-rate.vercel.app/
